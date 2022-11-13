@@ -11,13 +11,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pamelamorim1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pamelamorim1&repo=Login_Page&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pamelamorim1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pamelamorim1&layout=compact)](https://github.com/Pamelamorim1/github-readme-stats)
 
 
 ### Contatos
